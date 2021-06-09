@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ashish9719
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Ashish Mali
+- 👀 I’m interested in emerging technologies
 - 🌱 I’m currently learning B.Tech Computer Science
-- 💞️ 
+- 💞️ Fond of Java
 - 📫 How to reach me ... ashishmali456@gmail.com
 
 Resume:-
