@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ashish Mali
-- 👀 I’m interested in emerging technologies
-- 🌱 I’m currently learning B.Tech Computer Science
-- 💞️ Fond of Java
+- 👀 I’m a Associate Software Engineer
 - 📫 How to reach me ... ashishmali456@gmail.com
 
 Resume:-
